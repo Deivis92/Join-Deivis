@@ -1,5 +1,5 @@
 const BASE_URL =
-  "https://join-dummy-backend-default-rtdb.europe-west1.firebasedatabase.app/";
+  "https://joindeivis-default-rtdb.europe-west1.firebasedatabase.app/";
 
 /**
  * Posts data to a specific path in the Firebase database.
